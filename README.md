@@ -1,1 +1,2 @@
 # MariaDB-Research-Report
+This 2-man project was for research on how vertical, horizontal, indexes, and memory mapping affects space and time for queries. This was only a 3 week porject, but we learned a lot on how and when to use certain performance table optimizations depending on your goal. The work was no divided, instead we worked on a single part at a time explaining our own thoughts on improvements or direction. 
